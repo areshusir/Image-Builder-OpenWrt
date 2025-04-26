@@ -23,5 +23,5 @@ kmod-igc
 -kmod-ixgbe
 -kmod-tg3
 -kmod-r8169
-bbr
+kmod-tcp-bbr
 vlmcsd
