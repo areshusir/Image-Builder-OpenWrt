@@ -7,6 +7,7 @@ luci-i18n-package-manager-zh-cn
 luci-i18n-wol-zh-cn
 luci-i18n-ddns-zh-cn
 luci-i18n-samba4-zh-cn
+luci-i18n-homeproxy-zh-cn
 ddns-scripts-cloudflare
 luci-theme-bootstrap
 luci-proto-ppp
